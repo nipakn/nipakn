@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-Im a noob coder from Rovaniemi, Finland who is trying learn new stuff.
+I’m a noob coder from Rovaniemi, Finland who is trying learn new stuff.
 
 ### About me
  🌱 I’m currently learning Javascript
