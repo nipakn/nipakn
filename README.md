@@ -7,7 +7,7 @@ I’m a noob coder from Rovaniemi, Finland who is trying learn new stuff.
 
 🔭 I’m currently working on Discord bots with node.js
 
-## My Most Used languages:
+## My most used languages:
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nipakn"/>
 
