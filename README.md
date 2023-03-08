@@ -13,7 +13,7 @@ I’m a noob coder from Rovaniemi, Finland who is trying learn new stuff.
 
 ## Github stats: 
 
-<img src="https://github-readme-stats.vercel.app/api?username=zluvsand&show_icons=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=nipakn&show_icons=true"/>
 
 ### How to reach me?
  You can reach me from Discord, I mainly use it. My Discord is nipa#0453
