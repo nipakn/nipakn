@@ -7,6 +7,8 @@ I’m a noob coder from Rovaniemi, Finland who is trying learn new stuff.
 
 🔭 I’m currently working on Discord bots with node.js
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=zluvsand"/>
+
 ### How to reach me?
  You can reach me from Discord, I mainly use it. My Discord is nipa#0453
  
