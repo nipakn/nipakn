@@ -15,6 +15,10 @@ I’m a noob coder from Rovaniemi, Finland who is trying learn new stuff.
 
 <img src="https://github-readme-stats.vercel.app/api?username=zluvsand&show_icons=true"/>
 
+## Profile views: 
+
+![](https://komarev.com/ghpvc/?username=your-github-username)
+
 ### How to reach me?
  You can reach me from Discord, I mainly use it. My Discord is nipa#0453
  
