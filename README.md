@@ -17,7 +17,7 @@ I’m a noob coder from Rovaniemi, Finland who is trying learn new stuff.
 
 ## Profile views: 
 
-![](https://komarev.com/ghpvc/?username=your-github-username)
+![](https://komarev.com/ghpvc/?username=nipakn)
 
 ### How to reach me?
  You can reach me from Discord, I mainly use it. My Discord is nipa#0453
